@@ -269,4 +269,7 @@ Interactive Visualizations
       ↓
 Business Insights
 
- dashboard image link https://github.com/sur628376/Super-Store-Sales-Dashboard/blob/main/Powerbi-Dashboard.png
+
+
+
+ dashboard image link (https://github.com/sur628376/Super-Store-Sales-Dashboard/blob/main/Powerbi-Dashboard.png)
